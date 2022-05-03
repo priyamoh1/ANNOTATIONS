@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[execution started]]>
+    </line>
+    <line>
+      <![CDATA[execution completed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-04-25T23:36:11 IST" name="Suite" finished-at="2022-04-25T23:37:35 IST" duration-ms="83496">
+    <groups>
+    </groups>
+    <test started-at="2022-04-25T23:36:11 IST" name="Test" finished-at="2022-04-25T23:37:35 IST" duration-ms="83496">
+      <class name="test.loginctowlogout">
+        <test-method is-config="true" signature="executionstart()[pri:0, instance:test.loginctowlogout@306f16f3]" started-at="2022-04-25T23:36:11 IST" name="executionstart" finished-at="2022-04-25T23:36:11 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[execution started]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executionstart -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.loginctowlogout@306f16f3]" started-at="2022-04-25T23:36:11 IST" name="setup" finished-at="2022-04-25T23:37:16 IST" duration-ms="64195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="logintoapp()[pri:0, instance:test.loginctowlogout@306f16f3]" started-at="2022-04-25T23:37:16 IST" name="logintoapp" finished-at="2022-04-25T23:37:19 IST" duration-ms="3504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoapp -->
+        <test-method signature="lctowl()[pri:0, instance:test.loginctowlogout@306f16f3]" started-at="2022-04-25T23:37:19 IST" name="lctowl" finished-at="2022-04-25T23:37:33 IST" duration-ms="13713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lctowl -->
+        <test-method is-config="true" signature="logoutfromapp()[pri:0, instance:test.loginctowlogout@306f16f3]" started-at="2022-04-25T23:37:33 IST" name="logoutfromapp" finished-at="2022-04-25T23:37:35 IST" duration-ms="1780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutfromapp -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.loginctowlogout@306f16f3]" started-at="2022-04-25T23:37:35 IST" name="teardown" finished-at="2022-04-25T23:37:35 IST" duration-ms="256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="executioncomplete()[pri:0, instance:test.loginctowlogout@306f16f3]" started-at="2022-04-25T23:37:35 IST" name="executioncomplete" finished-at="2022-04-25T23:37:35 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[execution completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executioncomplete -->
+      </class> <!-- test.loginctowlogout -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
